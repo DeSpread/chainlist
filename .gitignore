@@ -39,3 +39,6 @@ yarn-error.log*
 
 # others
 build.log
+
+# claude
+.claude/
